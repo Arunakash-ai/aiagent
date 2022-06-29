@@ -189,6 +189,7 @@ if __name__ == "__main__":
         print(agent.performance)
 ```
 ## OUTPUT
-![Untitled4 - Jupyter Notebook and 1 more page - Personal - Microsoft​ Edge 07-04-2022 00_00_57](https://user-images.githubusercontent.com/75234646/162044344-276d6bf2-58ba-42fe-864e-9193421d9e2c.png)
+<img src="https://user-images.githubusercontent.com/75234646/162044344-276d6bf2-58ba-42fe-864e-9193421d9e2c.png" width="800" />
+
 ## RESULT
 Thus an AI agent is developed and the Peas description is mentioned.
